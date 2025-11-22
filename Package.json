@@ -1,0 +1,12 @@
+{
+  "name": "concrete-quiz-full",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "echo 'Build complete'",
+    "postinstall": "cd backend && npm install"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}

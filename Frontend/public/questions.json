@@ -1,0 +1,178 @@
+
+[
+  {
+    "question": "Concrete is unsuitable for compaction by a vibrator if it is:",
+    "options": ["Dry", "Harsh", "Plastic", "Stiff"],
+    "answer": "Plastic"
+  },
+  {
+    "question": "The inert material of a cement concrete mix is:",
+    "options": ["Water", "Admixture", "Aggregate", "Cement"],
+    "answer": "Aggregate"
+  },
+  {
+    "question": "Sands of Zone I are:",
+    "options": ["Fine", "Medium", "Coarse", "Very fine"],
+    "answer": "Coarse"
+  },
+  {
+    "question": "Cement becomes useless if its absorbed moisture content exceeds:",
+    "options": ["2%", "3%", "4%", "5%"],
+    "answer": "5%"
+  },
+  {
+    "question": "Placing of concrete should preferably be done at a temperature of:",
+    "options": ["20 ± 2°C", "25 ± 2°C", "27 ± 2°C", "30 ± 2°C"],
+    "answer": "27 ± 2°C"
+  },
+  {
+    "question": "The maximum percentage of chemical ingredient of cement is that of:",
+    "options": ["Silica", "Lime", "Alumina", "Iron oxide"],
+    "answer": "Lime"
+  },
+  {
+    "question": "Sand generally contains salt if it is obtained from:",
+    "options": ["Rivers", "Quarries", "Sea beds", "Lakes"],
+    "answer": "Sea beds"
+  },
+  {
+    "question": "The impurity in mixing water that affects setting time and strength of concrete is:",
+    "options": ["Sodium chlorides", "Sodium sulphates", "Sodium carbonates and bicarbonates", "Calcium chlorides"],
+    "answer": "Sodium carbonates and bicarbonates"
+  },
+  {
+    "question": "Di-calcium silicate (C₂S):",
+    "options": ["Generates high heat of hydration", "Generates less heat of hydration", "Has no effect on strength", "Delays setting"],
+    "answer": "Generates less heat of hydration"
+  },
+  {
+    "question": "On a grading curve, gap grading is represented by:",
+    "options": ["Vertical line", "Inclined line", "Smooth curve", "Horizontal line"],
+    "answer": "Horizontal line"
+  },
+  {
+    "question": "Bulking of sand is:",
+    "options": ["Shrinkage when wetted", "Expansion when dried", "Swelling of sand when wetted", "Compaction due to vibration"],
+    "answer": "Swelling of sand when wetted"
+  },
+  {
+    "question": "Curing of pavements, floors, roofs, and slabs is done by:",
+    "options": ["Sprinkling", "Membrane curing", "Ponding method", "Wet gunny bags"],
+    "answer": "Ponding method"
+  },
+  {
+    "question": "Pick the incorrect statement:",
+    "options": ["With passage of time, strength of cement increases", "With passage of time, strength of cement decreases", "After 24 months, cement strength may reduce to 50%", "Concrete made with deteriorated cement gains less strength"],
+    "answer": "With passage of time, strength of cement decreases"
+  },
+  {
+    "question": "The surface where two successive placements of concrete meet is known as:",
+    "options": ["Expansion joint", "Cold joint", "Construction joint", "Settlement joint"],
+    "answer": "Construction joint"
+  },
+  {
+    "question": "I.S. code specifies full strength of concrete after:",
+    "options": ["3 days", "7 days", "14 days", "28 days"],
+    "answer": "28 days"
+  },
+  {
+    "question": "For given workability, the grading requiring least amount of water is one that gives:",
+    "options": ["Greatest surface area", "Least surface area", "Least weight", "Greatest weight"],
+    "answer": "Least surface area"
+  },
+  {
+    "question": "The minimum percentage chemical ingredient of cement is that of:",
+    "options": ["Iron oxide", "Magnesium oxide", "Silica", "Alumina"],
+    "answer": "Magnesium oxide"
+  },
+  {
+    "question": "For casting 150 mm cubes, concrete is filled in how many layers with how many blows?",
+    "options": ["2 layers, 25 blows", "3 layers, 35 blows", "3 layers, 25 blows", "4 layers, 50 blows"],
+    "answer": "3 layers, 35 blows"
+  },
+  {
+    "question": "Dimensions of tamping rod used in cube testing are:",
+    "options": ["50 cm long, 10 mm dia", "60 cm long, 16 mm dia", "70 cm long, 20 mm dia", "45 cm long, 12 mm dia"],
+    "answer": "60 cm long, 16 mm dia"
+  },
+  {
+    "question": "Height of a slump cone is:",
+    "options": ["250 mm", "300 mm", "350 mm", "400 mm"],
+    "answer": "300 mm"
+  },
+  {
+    "question": "For yield test, if the cylinder is 15 L and 30 cm height, the number of layers and blows are:",
+    "options": ["3 layers, 45 blows", "4 layers, 60 blows", "6 layers, 90 blows", "5 layers, 75 blows"],
+    "answer": "6 layers, 90 blows"
+  },
+  {
+    "question": "How many sets of cubes are required for 28-day test if production is 140 m³ in a CP30 plant?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "6"
+  },
+  {
+    "question": "Compressive strength is expressed in:",
+    "options": ["kg/cm²", "psi", "N/mm²", "MPa"],
+    "answer": "N/mm²"
+  },
+  {
+    "question": "Sieves used for testing fineness of cement, fly ash, and silt content for sand are:",
+    "options": ["150 µ, 75 µ", "90 µ, 45 µ, 75 µ", "120 µ, 60 µ", "45 µ, 90 µ"],
+    "answer": "90 µ, 45 µ, 75 µ"
+  },
+  {
+    "question": "In which type of slump test is the average value taken?",
+    "options": ["True slump", "Collapsed slump", "Shear slump", "Zero slump"],
+    "answer": "Shear slump"
+  },
+  {
+    "question": "Over-dosage of admixture in concrete causes:",
+    "options": ["Strength increase", "Setting delay, segregation, bleeding", "Early setting", "Air void reduction"],
+    "answer": "Setting delay, segregation, bleeding"
+  },
+  {
+    "question": "Due to moisture correction of sand, which material quantities vary in batch report?",
+    "options": ["Cement & admixture", "Coarse aggregate & cement", "Sand & water", "Fly ash & cement"],
+    "answer": "Sand & water"
+  },
+  {
+    "question": "If yield of concrete is 0.95, the produced concrete is:",
+    "options": ["More in volume", "Less in volume", "Exact volume", "Over-batched"],
+    "answer": "Less in volume"
+  },
+  {
+    "question": "Recommended slump for a slope roof is:",
+    "options": ["75–100 mm", "Less than 100 mm", "125 mm", "More than 150 mm"],
+    "answer": "Less than 100 mm"
+  },
+  {
+    "question": "Maximum production capacity of a CP30 plant per hour is:",
+    "options": ["25 m³", "30 m³", "35 m³", "40 m³"],
+    "answer": "30 m³"
+  },
+  {
+    "question": "Minimum number of times moisture correction for sand should be done in a day:",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "Total curing hours for ACT test is:",
+    "options": ["3 hours", "4 hours", "5.5 hours", "6 hours"],
+    "answer": "5.5 hours"
+  },
+  {
+    "question": "More chances for cube failure occur when:",
+    "options": ["Cube is cured early", "Casting done after re-dosing admixture immediately", "Delay after mixing", "Under-compaction"],
+    "answer": "Casting done after re-dosing admixture immediately"
+  },
+  {
+    "question": "Which is the ideal sample for cube casting?",
+    "options": ["Initial discharge from TM", "Final discharge from TM", "Between discharge", "Uniform mix from a number of samples"],
+    "answer": "Uniform mix from a number of samples"
+  },
+  {
+    "question": "Honeycombs in concrete can be minimized by:",
+    "options": ["Reducing water", "Tamping and hammering", "Increasing admixture", "Adding more sand"],
+    "answer": "Tamping and hammering"
+  }
+]
